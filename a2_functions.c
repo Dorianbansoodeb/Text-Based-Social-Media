@@ -1,7 +1,6 @@
-/********* main.c ********
-    Dorian Bansoodeb 
+/********* functions.c ********
+   Dorian Bansoodeb
 */
-
 
 #include <stdlib.h>
 #include <stdio.h>

@@ -1,5 +1,5 @@
-/********* main.c ********
-    Dorian Bansoodeb 
+/********* functions.h ********
+   Dorian Bansoodeb
 */
 
 #include "a2_nodes.h"

@@ -1,7 +1,6 @@
-/********* main.c ********
-    Dorian Bansoodeb 
+/********* nodes.h ********
+    Dorian Bansoodeb
 */
-
 #ifndef A2_NODES_H
 #define A2_NODES_H
 /********** DON'T MODIFY **********/
